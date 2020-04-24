@@ -1,0 +1,15 @@
+html {background-color: yellow;
+	  font-family: Helvetica; }
+
+h1 {font-style: italic;
+	font-size: 200%; 
+	text-align: center;}
+
+bears {
+		color: black;
+		background-color: white; }
+
+cenas div, cenas div a {  color: white;
+	background-color: black; }
+
+a:hover, a:active { color: orange; }
