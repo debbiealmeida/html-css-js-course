@@ -1,0 +1,17 @@
+ul {
+	list-style-position: inside;
+	list-style-image: url(imagens/hearts.png); }
+
+li { 
+	color: white;
+	background-color: pink;
+	width: 700px;
+	margin-bottom: 10px; 
+	font-size: 160%; }
+
+html {font-family: "Courier New", monospace;
+	background-color: lightblue; }
+
+header { text-align: center; }
+
+	
