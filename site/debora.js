@@ -5,5 +5,5 @@ function dizerola() {
 }
 
 function tecnico() {
-	document.querySelector("#tecnico").innerHTML = "<a href='https://tecnico.ulisboa.pt/pt/' target='_blank'><img src='tecnico.png'></a>;"
+	document.querySelector("#tecnico").innerHTML = "<a href='https://tecnico.ulisboa.pt/pt/' target='_blank'><img src='tecnico.png'></a>";
 }
